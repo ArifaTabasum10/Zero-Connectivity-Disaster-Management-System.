@@ -1,8 +1,6 @@
 # Resilient Web: zero- connectivity Disaster Management System
 **Contributor: Arifa Tabassum**
 
-# 🚀 Resilient Web - Production Ready Emergency Response Platform
-
 ## ✅ COMPLETE - All Features Implemented
 
 ### 🎯 Core Features (100% Complete)
